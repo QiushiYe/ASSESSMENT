@@ -19,44 +19,4 @@ Based on the above findings, I conducted in-depth research, according to KPI's M
 ## CONCLUSION
 Using this decentralized method, you can increase the security of the terminal IoT device. The terminal device only needs to pass the KPI verification and connect to the gateway or a device with high computing capacity. In this model, the public and private keys need not be from the CA Obtain and generate, generate the corresponding key between the device as the node and the IoT terminal device, so as to maximize the protection of the data between the terminal data and the node. Even if the key of one node is cracked, it will not threaten the devices of other nodes. This method also supports the control and management of IoT terminal devices through local connections while the nodes are offline.
 
-## REFERENCES
-	S. Blionas, G. Doukas, K. Doukas, and N. D. Tselikas, “A Flexible/Scalable IoT Server Node testbed, from Gateway to Edge Computing. A Smart Home Use Case,” in 2019 Panhellenic Conference on Electronics & Telecommunications (PACET), 2019, pp. 1–6, doi: 10.1109/PACET48583.2019.8956284.
-	J. Höglund, S. Lindemer, M. Furuhed, and S. Raza, “PKI4IoT: Towards public key infrastructure for the Internet of Things,” Comput. Secur., vol. 89, p. 101658, 2020, doi: https://doi.org/10.1016/j.cose.2019.101658.
-	F. Marino, C. Moiso, and M. Petracca, “PKIoT: A public key infrastructure for the Internet of Things,” Trans. Emerg. Telecommun. Technol., vol. 30, no. 10, p. e3681, Oct. 2019, doi: 10.1002/ett.3681.
-	D. Trinchero, R. Stefanelli, D. Brunazzi, A. Casalegno, M. Durando, and A. Galardini, “Integration of smart house sensors into a fully networked (web) environment,” in SENSORS, 2011 IEEE, 2011, pp. 1624–1627, doi: 10.1109/ICSENS.2011.6127374.
-	P. Ting, J. Tsai, and T. Wu, “Signcryption Method Suitable for Low-Power IoT Devices in a Wireless Sensor Network,” IEEE Syst. J., vol. 12, no. 3, pp. 2385–2394, 2018, doi: 10.1109/JSYST.2017.2730580.
-	S. Raza, T. Helgason, P. Papadimitratos, and T. Voigt, “SecureSense: End-to-end secure communication architecture for the cloud-connected Internet of Things,” Futur. Gener. Comput. Syst., vol. 77, pp. 40–51, 2017, doi: https://doi.org/10.1016/j.future.2017.06.008.
-	J. Won, A. Singla, E. Bertino, and G. Bollella, “Decentralized Public Key Infrastructure for Internet-of-Things,” in MILCOM 2018 - 2018 IEEE Military Communications Conference (MILCOM), 2018, pp. 907–913, doi: 10.1109/MILCOM.2018.8599710.
-
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QiushiYe/ASSESSMENT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![My hypothetical model](https://github.com/QiushiYe/Research-on-Security-of-Public-Key-Infrastructure-in-Internet-of-Things-Terminal-Equipment/blob/master/IoT%20KPI%20model.png?raw=true)

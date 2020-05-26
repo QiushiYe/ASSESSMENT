@@ -3,11 +3,13 @@
 ## Abstract
 With the development of Internet of Things products, it has improved people's quality of life and also brought security challenges. The public key infrastructure system is one of the most widely used security verification technologies, but its usage in IoT products is very low. In this summary paper, we do research on several structures of public key infrastructure for the Internet of Things. According to the research on several public key infrastructures, it is found that there are insufficient resources in IoT devices. Based on the research, I discussed a solution to decentralized KPI, using gateways and other IoT devices with sufficient resources and insufficient resources. Connected devices. This solution can reduce the online certificate status protocol (OCSP) verification time. At the same time, the distributed node certificate verification method is used to improve scalability, and multiple Internet of Things devices can be accessed and controlled at the same time.
 
-![IOT Netrwork](https://github.com/QiushiYe/Research-on-Security-of-Public-Key-Infrastructure-in-Internet-of-Things-Terminal-Equipment/blob/master/20190326-iot-in-five-years2-1.jpg)
 
 
 ## INTRODUCTION
 There are more and more signs that the Internet of Things (IoT) is changing people's lifestyles. IoT products include smartphones, wearable devices, sensors, smart homes, and automated cars. These networkable devices and sensors are providing people with a more comfortable and convenient life. At the same time, there are hidden security risks in networked devices. From system operation to data packet transmission, it is possible to be hijacked or leaked, such as personal health information, house surveillance video or even smart door locks.
+
+![IOT Netrwork](https://github.com/QiushiYe/Research-on-Security-of-Public-Key-Infrastructure-in-Internet-of-Things-Terminal-Equipment/blob/master/20190326-iot-in-five-years2-1.jpg)
+
 The public key infrastructure system is one of the most widely used security verification and encryption systems. In the development of the Internet of Things technology, it can be found that the public key infrastructure system is not used on a large scale in the Internet of Things devices and sensors. By studying three feasible KPI prototypes IoT-PKI, PKIoT, and PKI4IoT, it is proved that the traditional certificate authority (CA) public key infrastructure is not suitable for IoT devices.
 
 ![KPI Trust Model](https://media.springernature.com/lw785/springer-static/image/prt%3A978-1-4419-5906-5%2F16/MediaObjects/978-1-4419-5906-5_16_Part_Fig1-97_HTML.gif)

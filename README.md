@@ -8,7 +8,7 @@ With the development of Internet of Things products, it has improved people's qu
 ## INTRODUCTION
 There are more and more signs that the Internet of Things (IoT) is changing people's lifestyles. IoT products include smartphones, wearable devices, sensors, smart homes, and automated cars. These networkable devices and sensors are providing people with a more comfortable and convenient life. At the same time, there are hidden security risks in networked devices. From system operation to data packet transmission, it is possible to be hijacked or leaked, such as personal health information, house surveillance video or even smart door locks.
 
-![IOT Netrwork](https://github.com/QiushiYe/Research-on-Security-of-Public-Key-Infrastructure-in-Internet-of-Things-Terminal-Equipment/blob/master/20190326-iot-in-five-years2-1.jpg)
+![IOT Netrwork](https://github.com/QiushiYe/Research-on-Security-of-Public-Key-Infrastructure-in-Internet-of-Things-Terminal-Equipment/blob/master/20190326-iot-in-five-years2-1.jpg?raw=true)
 
 The public key infrastructure system is one of the most widely used security verification and encryption systems. In the development of the Internet of Things technology, it can be found that the public key infrastructure system is not used on a large scale in the Internet of Things devices and sensors. By studying three feasible KPI prototypes IoT-PKI, PKIoT, and PKI4IoT, it is proved that the traditional certificate authority (CA) public key infrastructure is not suitable for IoT devices.
 
